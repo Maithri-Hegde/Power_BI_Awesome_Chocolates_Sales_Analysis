@@ -6,4 +6,5 @@ The goal of the project was to analyze the Awesome Chocolates data to predict th
 
 ![Sales Performance Report](https://github.com/Maithri-Hegde/Power_BI_Awesome_Chocolates_Sales_Analysis/assets/81279183/f25eaeff-412a-4924-902b-b7856f8f529f)
 
+
 ![Sales Trend   Forecasts](https://github.com/Maithri-Hegde/Power_BI_Awesome_Chocolates_Sales_Analysis/assets/81279183/8032c43d-8ad3-4add-882b-52dd14b2e03a)
